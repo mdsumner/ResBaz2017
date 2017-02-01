@@ -1,9 +1,9 @@
 Package: ResBaz2017
-Title: What the Package Does (one line, title case)
+Title: Calculate GDP for Resbaz.
 Version: 0.0.0.9000
 Authors@R: person("Michael D.","Sumner", role = c("aut", "cre"), email =
     "mdsumner@gmail.com")
-Description: What the package does (one paragraph).
+Description: Very little, but very nicely.
 Depends:
     R (>= 3.3.2)
 License: GPL-3
